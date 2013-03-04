@@ -1,0 +1,15 @@
+2ce9223298f79fb340bf7284f3151ea7 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+e95546d2c3e005df5bd848284ab3502a *R/AER.R
+faf3f0938cf1fa15a8e67a3f1cb0c0bb *R/LR.R
+3da7a28cf8ee34ab4dadfbdeccac874b *R/SMR.R
+697aed158ff34fd0ff0f9d3a2d873f74 *R/survexp_plot.R
+46a92c8875ce8b3a9de0474524ce79ae *data/data.example.rda
+48a5b6968d3008a20a4a20424471d833 *data/survexp.fr.rda
+53783aff4ca000f6581d6cbf803f373d *man/AER.Rd
+02ba4417470b2491ab4cbc1bfde6faa3 *man/LR.Rd
+5e89e78ba0cbece61f05d88f4a58b0b5 *man/SMR.Rd
+391c922f38f1f5213e1d0872e849b4c7 *man/data.example.Rd
+400cfff0f8bdfae98d557b98ea712d3e *man/survexp.fr-package.Rd
+a31301e08cd2d56a871cd0264fa53d91 *man/survexp.fr.Rd
+eff6b7bdacc63c6b849d0cafe18358eb *man/survexp_plot.Rd
